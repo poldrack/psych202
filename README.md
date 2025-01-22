@@ -6,20 +6,35 @@ Cognitive neuroscience is a very broad field; instead of giving a broad overview
 
 ## Course Structure
 
-This course will primarily involve discussion and hands-on exercises. For each class session, there will be assigned readings and/or videos, which you will be responsible for reading/watching prior to the class session. Most class sessions will involve two primary readings: one theory/conceptual piece, and one empirical piece. I will sometimes provide pointers to particular parts of readings to focus on, especially if they are longer. You should arrive ready to discuss each of the materials in depth if called upon. For each reading, one student will also be assigned to be the discussion leader, and should come prepared to give a short presentation on the paper and lead a discussion. (Note: Some readings are only accessible from the campus network, or using the Stanford VPN)
+This course will primarily involve discussion and hands-on exercises. For each class session, there will be assigned readings and/or videos, which you will be responsible for reading/watching prior to the class session. Most class sessions will involve two primary readings: one theory/conceptual piece, and one empirical piece. I will sometimes provide pointers to particular parts of readings to focus on, especially if they are longer. You should arrive ready to discuss each of the materials in depth if called upon. (Note: Some readings are only accessible from the campus network, or using the Stanford VPN)
 
-Some of the sessions will also include background reading from Dr. Poldrack's book, The New Mind Readers; the book can be purchased from the usual outlets, and a draft version is available under the Files section on Canvas. These readings will not be presented by students, but should be read as background for the discussion.
+### Student presentations of conceptual papers
 
-You will be responsible for answering a set of questions about the assigned readings via Canvas, due at 12 am the night before class.
+Each theory/conceptual piece will be presented by a student (or group of students, depending on the class size).  These students will be expected to give a short presentation outlining the key ideas of the paper. The presentation should last no more than 15 minutes, in order to allow sufficient time for discussion; this means that the paper often cannot be presented in full detail.
 
-The major assignment of the course will be a final paper, which will be a conceptual review of some particular question in cognitive neuroscience. A brief proposal is due on 10/5, and a full first draft is due on 11/16. Each of you will be assigned papers from two other students to perform peer reviews; these peer reviews will be due 11/30. The final draft of your paper (including a formal response to the peer reviews) will be due 12/6.
+### Instructor-led discussion of empirical papers
+
+Each empirical paper will have two student discussants assigned. These students must each submit a review of the paper at least one day beforehand, in the style of a journal peer review.  Examples are provided in the Files section.   During class, the instructor will lead discussion of the paper and ask the discussants to answer questions and explain the paper.  
+
+### Collaborative note-taking by student scribes
+
+For each class session there will be two assigned scribes who will to take collaborative notes on the presentations and discussion in a Google Doc, which will be made available to the class.
+
+### Post-class discussion questions
+
+Students will be assigned a post-class discussion question for each session, due the following day via Canvas.  The collaborative notes taken by the scribes can be used to help in writing the response. These can only be submitted by students who were present in class; All students get 3 free drops to accommodate travel or illness.
+
+### Final project
+
+The major assignment of the course will be a final paper, which will require proposing an experiment to address a specific question in cognitive neuroscience.  A brief proposal is due on 10/5, and a full first draft is due on 11/16. Each of you will be assigned papers from two other students to perform peer reviews; these peer reviews will be due 11/30. The final draft of your paper (including a formal response to the peer reviews) will be due 12/6.
 
 ## Grading
 
 Grading will be determined as follows:
 
-- 30%: Class participation (including leading discussion and participating in daily discussions)
-- 20%: Daily question responses
+- 10%: Participation as discussant (including peer review)
+- 10%: Partcipation as scribe
+- 30%: Post-class discussion questions
 - 5%: Paper proposal
 - 15%: First draft of final paper
 - 10%: Peer review of final papers
@@ -75,15 +90,15 @@ Meet outside CNI (Basement of Jordan Hall) at 10:30 am
 - Lindquist et al, 2012, The brain basis of emotion: A meta­analytic review. Behavioral and Brain Sciences. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/brain-basis-of-emotion-a-metaanalytic-review/80F95F093305C76BA2C66BBA48D4BC8A
 - Kragel, P.A., Treadway, M.T., Admon, R. et al. A mesocorticolimbic signature of pleasure in the human brain. Nat Hum Behav 7, 1332–1343 (2023). https://doi.org/10.1038/s41562-023-01639-0
 
-#### 4/30: Language (RP GONE; Laura Gwilliams, guest discussant) (PAPER PROPOSALS DUE)
+#### 4/30: Language  (PAPER PROPOSALS DUE)
 - Hickok & Poeppel, 2007, The cortical organization of speech processing. http://www.nature.com/nrn/journal/v8/n5/abs/nrn2113.html
 - Flinker et al, 2015, Redefining the role of Broca's area in speech. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352780/
 
-#### 5/2: Social Cognition
+#### 5/2: Social Cognition 
 - Stanley and Adolphs, 2013, Toward a Neural Basis for Social Behavior. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940487/
 - Varrier RS, Finn ES. Seeing Social: A Neural Signature for Conscious Perception of Social Interactions. J Neurosci. 2022 Dec 7;42(49):9211-9226. https://www.jneurosci.org/content/42/49/9211
 
-#### 5/7: Episodic Memory (RP GONE; Anthony Wagner, guest discussant)
+#### 5/7: Episodic Memory 
 - Kumaran D, Hassabis D, McClelland JL. What Learning Systems do Intelligent Agents Need? Complementary Learning Systems Theory Updated. Trends Cogn Sci. 2016 Jul;20(7):512-534. https://www.sciencedirect.com/science/article/abs/pii/S1364661316300432
 - Zeithamova D, Dominick AL, Preston AR. Hippocampal and ventral medial prefrontal activation during retrieval-mediated learning supports novel inference. Neuron. 2012 Jul 12;75(1):168-79. https://www.cell.com/neuron/fulltext/S0896-6273(12)00445-X
 
@@ -128,4 +143,4 @@ Meet outside CNI (Basement of Jordan Hall) at 10:30 am
 - Farah, 2012, Neuroethics: the ethical, legal, and societal impact of neuroscience. https://neuroethics.upenn.edu/wp-content/uploads/2015/06/farah-Neuroethics-The-Ethical-Legal-and-Societal-Impact-of-Neuroscience.pdf
 - Monti et al., 2010, Willful modulation of brain activity in disorders of consciousness. http://www.ncbi.nlm.nih.gov/pubmed/20130250
 
-#### 6/14: FINAL PAPERS DUE BY 5 PM
+#### 6/12: FINAL PAPERS DUE BY 5 PM
