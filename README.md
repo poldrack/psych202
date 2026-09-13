@@ -162,7 +162,7 @@ Interpretation**
 
 **Thursday 10/8 -- Visit the Scanner at CNI**
 
-- Meet in TBD at 1:30 for discussion, followed by CNI tour at
+- Meet at 420-102 at 1:30 for discussion, followed by CNI tour at
 2 pm
 - Ashby (2015). An Introduction to fMRI.
 - **Due by midnight on Canvas:** Thread problem statement + 5
