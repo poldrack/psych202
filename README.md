@@ -107,8 +107,6 @@ confidential peer evaluations of individual contributions.*
 
 ### Part 1: Concepts and Methods
 
-#### Week 1
-
 **Tuesday 9/22 -- Introduction to the Goals and Logic of Cognitive
 Neuroscience**
 - Background: Poldrack, New Mind Readers, Ch 1
@@ -125,8 +123,6 @@ Interpretation**
 - **In-class:** 
   - use the patient simulator (see link on Canvas)
 
-#### Week 2
-
 **Tuesday 9/29 -- Intro to Neuroanatomy and Physiology**
 
 - Glimcher (2014), Introduction to Neuroscience
@@ -139,7 +135,6 @@ Interpretation**
   neuroscience
   - The group together compares the results from the different LLMs
 
-
 **Thursday 10/1 -- Neuroimaging: Basis of Signals, Inference**
 
 - Background: Poldrack, New Mind Readers, Ch 2-4
@@ -149,8 +144,6 @@ Interpretation**
   - Groups examine a published fMRI figure and identify
   potential interpretive pitfalls (reverse inference, circular analysis,
   threshold effects)
-
-#### Week 3
 
 
 **Tuesday 10/6 -- Organization of Brain Networks**
@@ -168,8 +161,6 @@ Interpretation**
 - **Due by midnight on Canvas:** Thread problem statement + 5
   foundational papers
 
-
-#### Week 4
 
 **Tuesday 10/13 - Computational Principles of Brain Function**
 - Richards et al. (2019). A deep learning framework for neuroscience.
@@ -192,8 +183,6 @@ Interpretation**
 
 ### Part 2: Systems and Functions
 
-#### Week 5
-
 **Tuesday 10/20 -- Emotion**
 - Bonar & Lindquist (2025), The Brain and Emotion
 - Kragel et al. (2023). A mesocorticolimbic signature of pleasure.
@@ -211,8 +200,6 @@ Interpretation**
   cognition question and outline methods
 
 **Thread Update**: Due Sunday, 10/25
-
-#### Week 6
 
 **Tuesday 10/27 -- Language**
 - Hickok (2022). The dual stream model of speech and language
@@ -232,9 +219,9 @@ Interpretation**
 
 **Thread Update**: Due Sunday, 11/1
 
-#### Week 7
+**Tuesday 11/3 -- NO CLASS (Democracy Day)**
 
-**Tuesday 11/3 -- Decision Making**
+**Thursday 11/5 -- Decision Making**
 - Background: Poldrack, New Mind Readers, Ch 7
 - Collins & Shenhav, 2021, Advances in modeling learning and decision-making in
 neuroscience
@@ -242,7 +229,10 @@ neuroscience
 - **In-class:**
   - Thread teams catch-up
 
-**Thursday 11/5 -- Visual Perception**
+**Thread Update**: Due Sunday, 11/8
+
+
+**Tuesday 11/10 -- Visual Perception**
 - Van Peelen et al. (2023). Predictive processing of scenes and objects
 - Chen et al. (2023). Alpha-frequency feedback to early visual cortex
   orchestrates coherent naturalistic vision
@@ -250,13 +240,9 @@ neuroscience
   - Workshop---teams share methodological challenges from
   their threads
 
-**Thread Update**: Due Sunday, 11/8
-
 ### Part 3: Cross-cutting Themes
 
-#### Week 8
-
-**Tuesday 11/10 -- Reproducibility and Open Science**
+**Thursday 11/12  -- Reproducibility and Open Science**
 - Poldrack et al. (2017). Scanning the horizon.
 - Botvinik-Nezer et al. (2020). Variability in the analysis of a single
   dataset by many teams.
@@ -264,7 +250,9 @@ neuroscience
   - search for an open dataset relevant to a particular
   question, and propose an analysis
 
-**Thursday 11/12 -- Genetics**
+**Thread Update**: Due Sunday, 11/15
+
+**Tuesday 11/17 -- Genetics**
 - Background: Eugenics and Scientific Racism (NIH); Yudell et al. (2016)
 - Visscher et al. (2021). Discovery and implications of polygenicity.
 - Aydogan et al. (2021). Genetic underpinnings of risky behavior.
@@ -272,28 +260,18 @@ neuroscience
   - Discussion: Ethical implications of polygenic scores for
   brain-related traits---what should (and shouldn't) be done?
 
-**Thread Update**: Due Sunday, 11/15
-
-#### Week 9
-
-**Tuesday 11/17 -- Psychopathology**
+**Thursday 11/19 -- Psychopathology**
 - Background: Poldrack, New Mind Readers, Ch 8
 - Lynch et al. (2024). Frontostriatal salience network expansion in
   depression.
 
-**Thursday 11/19 -- In-class debate: Nativism vs constructivism**
+**Thread Update**: Due Sunday, 11/22
+
+**Tuesday 12/1 -- In-class debate: Nativism vs constructivism**
 - Scott & Arcaro, 2023
 - Kanwisher, 2010
 - **Due:** AI Critique #3
 - **In-class:** Group debate
-**Thread Update**: Due Sunday, 11/22
-
-#### Week 10
-
-**Tuesday 12/1 -- Neuroethics**
-- Background: Poldrack, New Mind Readers, Ch 6
-- TBD
-- **In-class:** TBD
 
 **Thursday 12/3 -- NO CLASS MEETING**
 - Teams can use this time to work together to develop their final thread
@@ -324,7 +302,9 @@ accuracy and originality of your work. AI-generated text submitted
 without attribution or critical engagement will be treated as a
 violation of academic integrity.
 
-You may use whichever AI tools you have access to.  All students can request standard-tier accounts for both [Claude](https://uit.stanford.edu/service/claude) and [ChatGPT](https://uit.stanford.edu/service/openai-chatgpt-edu), which are free to students.
+You may use whichever AI tools you have access to.  All students can request standard-tier accounts 
+for both [Claude](https://uit.stanford.edu/service/claude) 
+and [ChatGPT](https://uit.stanford.edu/service/openai-chatgpt-edu), which are free to students.
 
 ### Students with Documented Disabilities
 
