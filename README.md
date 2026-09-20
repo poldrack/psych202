@@ -43,7 +43,7 @@ the previous week. Each update (200-400 words) connects that week\'s
 readings to your thread question - what\'s relevant, what challenges
 your assumptions, what methods might apply.
 
-**Week 10:** Polished group-authored thread document (4,000--6,000
+**Finals week:** Polished group-authored thread document (4,000--6,000
 words). You may use AI tools to generate the outline, but the text must
 be written by group members; no copy/pasting of text from AI tools is allowed.
 
